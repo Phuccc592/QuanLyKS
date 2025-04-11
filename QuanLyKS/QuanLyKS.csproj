@@ -72,6 +72,12 @@
     <Compile Include="QuanLyForm3.Designer.cs">
       <DependentUpon>QuanLyForm3.cs</DependentUpon>
     </Compile>
+    <Compile Include="QuanLyKS 5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyKS 5.Designer.cs">
+      <DependentUpon>QuanLyKS 5.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -92,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="QuanLyForm3.resx">
       <DependentUpon>QuanLyForm3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyKS 5.resx">
+      <DependentUpon>QuanLyKS 5.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
