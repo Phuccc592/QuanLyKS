@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace QuanLyKS
 {
-    public partial class QuanLyKS_6 : Form
+    public partial class quanlyks_6 : Form
     {
-        public QuanLyKS_6()
+        public quanlyks_6()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

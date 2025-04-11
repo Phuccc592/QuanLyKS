@@ -78,11 +78,11 @@
     <Compile Include="QuanLyKS 5.Designer.cs">
       <DependentUpon>QuanLyKS 5.cs</DependentUpon>
     </Compile>
-    <Compile Include="QuanLyKS 6.cs">
+    <Compile Include="quanlyks 6.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="QuanLyKS 6.Designer.cs">
-      <DependentUpon>QuanLyKS 6.cs</DependentUpon>
+    <Compile Include="quanlyks 6.Designer.cs">
+      <DependentUpon>quanlyks 6.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -108,8 +108,8 @@
     <EmbeddedResource Include="QuanLyKS 5.resx">
       <DependentUpon>QuanLyKS 5.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="QuanLyKS 6.resx">
-      <DependentUpon>QuanLyKS 6.cs</DependentUpon>
+    <EmbeddedResource Include="quanlyks 6.resx">
+      <DependentUpon>quanlyks 6.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
